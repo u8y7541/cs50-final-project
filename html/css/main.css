@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body, p {
+    font-family: PT Serif;
+    font-size: 20px;
+}
+h1 {
+    font-family: Open Sans;
+}
+a {
+    text-decoration: none;
+    color: rgb(136, 163, 206);
+}
+#container {
+    width: 60%;
+    margin: auto;
+    margin-top: 10%;
+}
+#header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+#logo {
+    min-width: 50%;
+    min-height: 33%;
+    width: auto;
+    height: auto;
+}
