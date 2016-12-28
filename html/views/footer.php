@@ -1,1 +1,1 @@
-<span style="text-align: center;"><p style = "margin: auto;">Brought to you by CS50</p></span></div></div></body></html>
+<span style="text-align: center;"><p style = "margin: auto;">Brought to you by CS50<a href="https://github.com/u8y7541/cs50-final-project"><img width = 4% src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"></a></p></span></div></div></body></html>
